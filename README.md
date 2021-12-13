@@ -115,6 +115,12 @@ Restart the web apache2 for the changes to take effect.
 sudo /etc/init.d/apache2 restart
 ```
 
+OR
+
+```bash
+sudo service apache2 restart
+```
+
 We are all done with the command line prompt.
 
 ## WordPress Dashboard
